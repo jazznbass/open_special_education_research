@@ -1,0 +1,11 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "The Special education research open science book"
+  author: "TL & JW"
+  chapters:
+    - index.qmd
+    
+
